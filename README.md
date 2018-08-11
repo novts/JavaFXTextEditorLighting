@@ -1,1 +1,1 @@
-# JavaFXTextEditorLighting
+Text Editor Lighting has a field for entering text, setting its background, font size and style, and then creating an image and lighting it with a distant light source, a point light source, or a spot light source, while changing various parameters of the light source. The modified image is saved to the computer in the format specified by a file extension.
